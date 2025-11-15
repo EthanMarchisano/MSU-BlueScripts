@@ -1,0 +1,1 @@
+Transport.sh transports scripts onto boxes and returns a file at /tmp/log.txt back to the user. Scripts sent with transport.sh need a /tmp/log.txt to be made to be used with it.
